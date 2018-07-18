@@ -1,0 +1,2 @@
+continous_goals:several_navigation_goals:simple_navigation_goals:specific_goal
+-DCATKIN_DEVEL_PREFIX=/home/drones/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/drones/catkin_ws/install -G Unix Makefiles

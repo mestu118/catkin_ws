@@ -1,0 +1,8 @@
+prefix=/home/drones/catkin_ws/install
+
+Name: several_navigation_goals
+Description: Description of several_navigation_goals
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/drones/catkin_ws/install/lib 
+Requires: 

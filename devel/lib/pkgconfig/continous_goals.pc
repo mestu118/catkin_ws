@@ -1,0 +1,8 @@
+prefix=/home/drones/catkin_ws/devel
+
+Name: continous_goals
+Description: Description of continous_goals
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/drones/catkin_ws/devel/lib 
+Requires: 

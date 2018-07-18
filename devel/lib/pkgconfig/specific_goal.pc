@@ -1,0 +1,8 @@
+prefix=/home/drones/catkin_ws/devel
+
+Name: specific_goal
+Description: Description of specific_goal
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/drones/catkin_ws/devel/lib 
+Requires: 
